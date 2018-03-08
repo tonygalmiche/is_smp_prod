@@ -148,6 +148,9 @@
                     <field name="ordre" />
                     <field name="machine_id" />
                     <field name="sous_ensemble_id" />
+                    <field name="matiere" />
+                    <field name="categorie" />
+                    <field name="suivi_par" />
                     <group expand="0" string="Regrouper par...">
                         <filter string="Machine" context="{'group_by':'machine_id'}"/>
                         <filter string="Sous-ensemble" context="{'group_by':'sous_ensemble_id'}"/>
