@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_is_machine,access_is_machine,model_is_machine,base.group_user,1,1,1,1
+access_is_sous_ensemble,access_is_sous_ensemble,model_is_sous_ensemble,base.group_user,1,1,1,1
+access_is_sous_ensemble_line,access_is_sous_ensemble_line,model_is_sous_ensemble_line,base.group_user,1,1,1,1
+
